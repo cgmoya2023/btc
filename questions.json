@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "pregunta": "What is the maximum supply of Bitcoin?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "10 million",
+    "opcion2": "21 million",
+    "opcion3": "100 million",
+    "opcion4": "1 billion",
+    "correcta": 2
+  },
+  {
+    "id": 2,
+    "pregunta": "When was the first Bitcoin block (Genesis Block) mined?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "2008",
+    "opcion2": "2009",
+    "opcion3": "2010",
+    "opcion4": "2011",
+    "correcta": 2
+  },
+  {
+    "id": 3,
+    "pregunta": "What is the process by which new Bitcoins are created and added to the circulation?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Farming",
+    "opcion2": "Harvesting",
+    "opcion3": "Mining",
+    "opcion4": "Minting",
+    "correcta": 3
+  },
+  {
+    "id": 4,
+    "pregunta": "Who is the pseudonymous creator of Bitcoin?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Vitalik Buterin",
+    "opcion2": "Charlie Lee",
+    "opcion3": "Satoshi Nakamoto",
+    "opcion4": "Roger Ver",
+    "correcta": 3
+  },
+  {
+    "id": 5,
+    "pregunta": "What is the underlying technology behind Bitcoin and other cryptocurrencies?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Artificial Intelligence",
+    "opcion2": "Blockchain",
+    "opcion3": "Quantum Computing",
+    "opcion4": "Virtual Reality",
+    "correcta": 2
+  },
+  {
+    "id": 6,
+    "pregunta": "What is the process of verifying Bitcoin transactions without the need for a central authority?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Centralized Validation",
+    "opcion2": "Decentralized Verification",
+    "opcion3": "Federated Authentication",
+    "opcion4": "Distributed Ledger",
+    "correcta": 2
+  },
+  {
+    "id": 7,
+    "pregunta": "Which country is home to the largest number of Bitcoin miners?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "China",
+    "opcion2": "United States",
+    "opcion3": "Russia",
+    "opcion4": "Canada",
+    "correcta": 1
+  },
+  {
+    "id": 8,
+    "pregunta": "What is the term used for the smallest fraction of a Bitcoin?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Bit",
+    "opcion2": "Satoshi",
+    "opcion3": "Crypto",
+    "opcion4": "Token",
+    "correcta": 2
+  },
+  {
+    "id": 9,
+    "pregunta": "Which process helps improve the privacy and fungibility of Bitcoin?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "Coin Mixing",
+    "opcion2": "Token Swapping",
+    "opcion3": "Block Puzzling",
+    "opcion4": "Chain Splitting",
+    "correcta": 1
+  },
+  {
+    "id": 10,
+    "pregunta": "What is the approximate block time in the Bitcoin network?",
+    "imagen": "https://i.ibb.co/5v4v18d/991959.png",
+    "opcion1": "10 seconds",
+    "opcion2": "1 minute",
+    "opcion3": "10 minutes",
+    "opcion4": "1 hour",
+    "correcta": 3
+  }
+]
